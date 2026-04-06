@@ -52,7 +52,7 @@
 <b>Stock Market Prediction Model</b>  
 <sub>Forecasting trends using Python and ML.</sub>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dayelysantana14&theme=react-dark"/>
 
 </td>
 
