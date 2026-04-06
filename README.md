@@ -15,37 +15,7 @@
 </p>
 
 
-<h3>📊 Data Metrics</h3>
 
-<table>
-<tr align="center">
-
-<td>
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="#1f6feb" stroke-width="6" fill="none"/>
-  <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="18" fill="#1f6feb">99%</text>
-</svg>
-<br><sub>Data Hygiene</sub>
-</td>
-
-<td>
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="#1f6feb" stroke-width="6" fill="none"/>
-  <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="18" fill="#1f6feb">96%</text>
-</svg>
-<br><sub>Insight Velocity</sub>
-</td>
-
-<td>
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="#1f6feb" stroke-width="6" fill="none"/>
-  <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="18" fill="#1f6feb">98%</text>
-</svg>
-<br><sub>Accuracy</sub>
-</td>
-
-</tr>
-</table>
 
 <h3>📉 Live Project</h3>
 
@@ -66,9 +36,6 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h3>🔥 Streak</h3>
-
-<img src="https://streak-stats.demolab.com?user=daysant14&theme=tokyonight"/>
 
 
 
