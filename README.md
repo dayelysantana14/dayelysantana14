@@ -9,7 +9,7 @@
   
 <p align="center">
 <a href="https://github.com/daysant14">
-  <img   src="https://github-readme-stats-eight-theta.vercel.app/api?username=daysant14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="180em" width="100%"/>
+  <img   src="https://github-readme-stats-eight-theta.vercel.app/api?username=daysant14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="100%"/>
 
 </a>
 </p>
