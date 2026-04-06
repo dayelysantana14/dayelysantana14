@@ -82,7 +82,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>&nbsp;
-<img src="https://img.icons8.com/color/48/power-bi.png" height="50"/>
 <img src="https://img.icons8.com/color/48/tableau-software.png" height="50"/>
 
 </p>
