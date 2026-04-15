@@ -76,7 +76,7 @@
 <td width="50%" style="padding:5px;">
 
 <a href="#">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/assets/imagen2.png"
+  <img src="https://github.com/dayelysantana14/dayelysantana14/blob/a6dc8defdb95db13d0d5e7d9c5b91526787d6dcc/code.PNG"
        width="100%"
        style="height:120px; object-fit:cover; border-radius:6px;" />
 </a>
